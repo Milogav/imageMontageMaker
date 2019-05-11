@@ -2,8 +2,9 @@
 Tkinter GUI program to make image montage videos
 
 Requirements:
-  Python libraries:
+
+Python libraries:
     - opencv-python
     - Pillow
   
-  ffmpeg
+ffmpeg
