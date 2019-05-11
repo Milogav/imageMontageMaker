@@ -1,10 +1,11 @@
 # imageMontageMaker
 Tkinter GUI program to make image montage videos
 
-Requirements:
+Dependencies:
 
 Python libraries:
 - opencv-python
 - Pillow
+- numpy
   
 ffmpeg
