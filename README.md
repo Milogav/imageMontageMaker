@@ -1,5 +1,5 @@
 # imageMontageMaker
-Tkinter GUI program to make image montage videos
+Tkinter GUI program to make photo montages videos with music
 
 Dependencies:
 
