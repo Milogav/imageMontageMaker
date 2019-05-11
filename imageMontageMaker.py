@@ -5,7 +5,6 @@ import tkinter.filedialog
 import tkinter.messagebox
 from PIL import Image,ImageTk
 import os
-import re
 import subprocess
 
 def numpy2tkImg(img_array):
